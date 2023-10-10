@@ -1,0 +1,19 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: old
+pswd: 149603e6c0
+
+title: WbD
+description: None
+content: Nothing to say
+
+u_name: old old
+u_email: old666old@mail.ru
+content_contact: Nothing to say
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: qwerty
